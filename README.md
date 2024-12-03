@@ -1,5 +1,6 @@
-## Hi there 👋
+## 凤凰平台最新情况 👋
 
+请到我的主页看最新消息：<https://fenghuang8.github.io>
 <!--
 **fenghuang8/fenghuang8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
